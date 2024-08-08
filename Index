@@ -92,11 +92,11 @@
             <a href="https://www.hackerrank.com/profile/balabadruniprit1" target="_blank" rel="noopener noreferrer">
               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAZlBMVEUNFB0NFB4MFB4NEx0MEx0MEx4AAAwACBYAABANABshJi1/gINFSU5yc3Zpa28KazYKczkKdzoNHB////+hoqQAAADz8/Tr7O0A4GEA8WYA+GkMNCYNDR2Zmpzk5OUC2l4A6mS7vL1y4JDVAAAAyUlEQVR4Ac3TVaLCQBBE0epmKrgTe4Lsf5OM4Y1+cZDYjSeAqCLq+I/nLkFUEs1ESSrVfykUyBU8mIbAuwlUDN8WJK4oukCv6KGf8SJwg+Fw1O2Nh5NiOovmC54H3dFyuSrLalmXTRv9/P5dB/9lWS/X5WYbtR8Eu/GkehQkHwawd+GCEBD2QaZAnwck7At1tgX7UqdAPJg3i44pyJApkxjQCIQXYoCzoHO9hXSQIvHNCnjmeJop8IxAHm4hHyTsg3waOHqPA//ZA4udHD84T+VvAAAAAElFTkSuQmCC" alt="HackerRank">
           </a>
-          <a href="https://www.novypro.com/profile_about/harshad-thombre" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.novypro.com/profile_about/balabadruni-pritee" target="_blank" rel="noopener noreferrer">
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAYCAYAAADpnJ2CAAADg0lEQVR4AWJwL/DBiZe+7gvLvD1tXfT1mU89r8z6D8I6Z+b91zm94KnyiUXrpY8tTgKpIwVjFex9MrGlA9BZPcC4EkZhGG54bdu2bdu2bdu2bdu2bdtY1Oa5+/2b00z/KrlJ3kVP02fOzGT6dTUN/7RK1P3FVoEpUS7ejZ2O1NcPzv8v8LRmYbqNEUui1/9ZSn7g/T2iIlePeVDOC6cozeXDSKCobc0/I/vG025DvVMZOwYFGTupXkTAGBz9djNjgcHT50SJtzwUpdpx3dMtfwT1iqvxBjggeN2wgADu/7PCizFY/uRdSrvr6YIsm982LH7leC8lmH7bo8jU616PwAzvAToontYH7ZNYM8kHfGye85DBtd/W+2yXdv3vDxNLO+Mqj7Lh2YhMAAHgf7lWnT45gCrhISms1QSIO/GdbRYBxHYMjnl5jFRL9ZR+nJEyjjGclT8UN8q2LpSJP0hZp7bfOjHIDUuijRDgD+fMJzIosNVmSj/HJMAMk4x35A8FNCA3EQp0g4xJpqPhSbQcULGlKsI9gwACQwLbZQEWGixAEQyOzGy7IM+xEVAljLtXFe2evgIgrl//Jw9JdcpG6ddbKONyM6NBwRHFiBD+luc4iMkp9R5G0cy0hkdimOuB7p7qpo1QmqNWyrDF6oNmXmC57XfKytBfBpE8n5HWsAUgx7gYxn9ocSMG0+3xgigoOK5saHB2GgNxjIphsjcON6MM8pbhQC4ciBZmMOi9IEr9wEEAlWgwcHot+ju5KhEnz3G9FmcwkjLvNUz+2X6XwYwXHCRvmW29LSA4ow65geG3PMc2XozLaNwUC/5wzE3+w0kMZj7tpKyHHJR1twNoQHBuw1gQzaxLr5UzPJnWZDGRMoBbc5mrizekiHIWBogtM1xzymhQcH5TIrSoBe1UzrbUcXXZksPskVGfh3eKCOcT3hJoOHBhc/rNIADl7FhB63OAyg7ms4xl0PtAZlDeMtd2h0YGl7Yn4vA/h9O2N7eFOAYDfgHj1PLNI28JNPsq22ZUa77DvqY7MP/TeayA1cUYd6KCvWBAEGHY/LQLTx2ByjcQY5x8KgEqw8aYBQX5ou8aTjRymZu6bRCJvxeP8tCW/uTi8PXEB3muiDX6XGEbccB4s6CgvOneIXQfsDIBDaZ5/L5rxe37YnIjxmLwZTwPBIYNmyD5mx8HxRhOJ9+JofoHHu1iczk77NEAAAAASUVORK5CYII=" alt="NovyPro">
         </a>
         <button
-          onclick="window.open('https://drive.google.com/drive/folders/1pFw6fjk8jvoW9H4h5S3vaX6n1pioE1lA?usp=sharing')"
+          onclick="window.open('https://drive.google.com/drive/folders/1dWJXb6Lm2jYXKGN7hmv_auqci4N4XiQd?usp=sharing')"
           type="button">Download Resume</button>
       </div>
     </div>
@@ -118,9 +118,10 @@
           <img src="assets/img/my_image1.jpeg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3>Data Science Intern</h3>
+          <h3>PROFESSIONAL EXPERIENCE</h3>
+          <h3>Visionet Systems</h3>
           <p class="fst-italic">
-            Detail-oriented Data Science and Analytics Trainee with one year of experience and exposure gained from multiple internships. Possesses a strong foundation in machine learning, Python, SQL, Power BI, Tableau, and advanced statistics. Proficiently utilizes these tools to extract actionable insights from complex datasets.
+            Conducted comprehensive SQL data extraction, transformation, and analysis, resulting in a 25% improvement in decision-making capabilities.Created charts and dashboards from the extracted data, leading to a 15% increase in sales. Optimized SQL queries, enhancing operational efficiency and reducing data retrieval time by 30%, which contributed to a 20% overall improvement in effectiveness. Designed and optimized data quality checks to ensure 100% compliance with data accuracy and consistency. Elevated team productivity by 30% through impactful data visualizations, streamlining analysis and decision-making, and optimizing resource allocation for improved business outcomes.
           </p>
           <div class="row">
             <div class="col-lg-6">
@@ -139,7 +140,7 @@
             </div>
           </div>
           <p>
-            I am skilled in creating and maintaining data pipelines and dashboards, resulting in enhanced operational efficiency and improved decision-making processes. I demonstrate a proven ability to effectively communicate complex findings to both technical and non-technical stakeholders in a clear and accessible manner. I have experience in training machine learning models, performing hyperparameter tuning, and deploying models. Additionally, I am proficient in conducting hypothesis testing and statistical analysis, as well as designing and implementing machine learning pipelines. Passionate about leveraging data to drive business growth, I have a keen interest in the fields of data science and artificial intelligence.
+            Detail-oriented and results-driven Data Analyst with 3+ years of experience in the Business Process Outsourcing (BPO) industry. Proficient in data extraction, transformation, and analysis, with a strong focus on delivering actionable insights to drive business decisions. Skilled in SQL, Python, Excel, and data visualization tools such as Tableau. Demonstrated ability to optimize processes and improve operational efficiency through statistical analysis, modeling, and data-driven decision-making.
         </div>
       </div>
 
@@ -153,7 +154,7 @@
         <div class="col-lg-3 col-md-6">
           <div class="count-box">
             <i class="bi bi-hourglass-split"></i>
-            <span data-purecounter-start="0" data-purecounter-end="768" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="500" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Hours worked</p>
           </div>
@@ -162,7 +163,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
           <div class="count-box">
             <i class="bi bi-journal-richtext"></i>
-            <span data-purecounter-start="0" data-purecounter-end="16" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Projects</p>
           </div>
@@ -171,7 +172,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="bi bi-award"></i>
-            <span data-purecounter-start="0" data-purecounter-end="38" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Certificates</p>
           </div>
@@ -180,7 +181,7 @@
         <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
           <div class="count-box">
             <i class="bi bi-journal-text"></i>
-            <span data-purecounter-start="0" data-purecounter-end="21" data-purecounter-duration="1"
+            <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1"
               class="purecounter"></span>
             <p>Mini Projects</p>
           </div>
@@ -227,16 +228,6 @@
           </div>
 
         </div>
-
-        <div class="col-lg-6">
-
-          <div class="progress">
-            <span class="skill">Git/Github <i class="val">76%</i></span>
-            <div class="progress-bar-wrap">
-              <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-              </div>
-            </div>
-          </div>
 
           <div class="progress">
             <span class="skill">SQL (postgreSQL) <i class="val">78%</i></span>
@@ -330,7 +321,7 @@
         <h2>Resume</h2>
         <p>Check My Resume</p>
         <div class="text-center"><button
-            onclick="window.open('https://drive.google.com/drive/folders/1pFw6fjk8jvoW9H4h5S3vaX6n1pioE1lA?usp=sharing')"
+            onclick="window.open('https://drive.google.com/drive/folders/1dWJXb6Lm2jYXKGN7hmv_auqci4N4XiQd?usp=sharing')"
             type="button">Download Resume</button></div>
       </div>
 
@@ -338,106 +329,66 @@
         <div class="col-lg-6">
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
-            <h4>Harshad Thombre</h4>
-            <p><em>Detail-oriented Data Science and Analytics Trainee with one year of internship experience. Strong foundation in machine learning, Python, SQL, Power BI, Tableau, and advanced statistics. Skilled in extracting actionable insights, creating data pipelines, and maintaining dashboards. Proven ability to communicate complex findings to technical and non-technical stakeholders. Passionate about leveraging data to drive business growth.</em></p>
+            <h4>Balabadruni Pritee</h4>
+            <p><em>Detail-oriented Data Science and Analytics Trainee with one year of experience. Strong foundation in machine learning, Python, SQL, Power BI, Tableau, and advanced statistics. Skilled in extracting actionable insights, Proven ability to communicate complex findings to technical and non-technical stakeholders. Passionate about leveraging data to drive business growth.</em></p>
             <p>
             <ul>
-              <li>Pune, India</li>
-              <li><a href="tel:+919004383534">+91 91121 72447</a></li>
-              <li><a href="mailto:harshadthombre25@gmail.com">harshadthombre25@gmail.com</a></li>
+              <li>Srikakulam,Andhra Pradesh</li>
+              <li><a href="tel:+919337643114">+91 91121 72447</a></li>
+              <li><a href="mailto:balabadrunipritee@gmail.com">balabadrunipritee@gmail.com</a></li>
             </ul>
             </p>
           </div>
 
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
-            <h4>Certification in Full Stack Data Science and AI</h4>
+            <h4>Certification in Full Stack Data Science </h4>
             <h5>2023 - Present</h5>
             <p><em>AlmaBetter</em></p>
             <p></p>
           </div>
           <div class="resume-item">
-            <h4>Bachelor of Technology in Civil Engineering</h4>
-            <h5>2019 - 2023</h5>
-            <p><em>Government College of Engineering Aurangabad</em></p>
+            <h4>Bachelor of Technology in Electronics and Communication Engineering</h4>
+            <h5>2015 - 2019</h5>
+            <p><em>National Institute of Standards and Technology</em></p>
             <p></p>
           </div>
           <div class="resume-item">
             <h4>Higher Secondary School Certificate</h4>
             <h5>2017 - 2019</h5>
-            <p><em>Shee Ganesh Vidyalaya</em></p>
+            <p><em>Nri Junior College</em></p>
             <p></p>
           </div>
         </div>
         <div class="col-lg-6">
-          <h3 class="resume-title">Internship Experience</h3>
+          <h3 class="resume-title">Experience</h3>
           <div class="resume-item">
-            <h4>Data Science Intern</h4>
-            <h5>July 2023 - Present</h5>
-            <p><em>AlmaBetter</em></p>
+            <h4>Associate</h4>
+            <h5>May 2019 - January</h5>
+            <p><em>Visionet Systems</em></p>
             <ul>
               <li>
                 <strong>Skills Acquired:</strong><br>
-                Data analysis, Data cleaning, Data interpretation.<br>
-                Statistical analysis, Predictive modeling, Hypothesis testing.<br>
-                Business acumen, Critical thinking, Problem-solving.
+                Data analysis, Data cleaning, Writing Queries.<br>
               </li>
               <li>
                 <strong>Tools and Technologies Utilized:</strong><br>
                 Python (including libraries like Pandas, NumPy), SQL, Excel.<br>
-                Tableau, Power BI, Google Analytics, SAS.
+                Tableau, Power BI.
               </li>
               <li>
                 <strong>Project Experience:</strong><br>
-                Worked on projects such as Bike Sharing Demand Prediction, Telecom Customer Churn Prediction, Amazon sales Dashboard, Bank Loan Analysis Power BI Dashboard, Real Estate Price Prediction, and Recommendation.<br>
-                Engaged in SQL case studies covering IPL Data Analysis, Product Decision, and Schema Design for Udemy.
+                Retail-Price-Optimization,Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics,Unsupervised-ML---Netflix-Movies-and-TV-Shows-Clustering,Product-Dissection-for-Amazon-Using-Sql,Capstone-Project-On-EDA-Hotel-Booking,The-DataViz-Challenge-Transforming-EDA-Projects-to-Dashboards 
               </li>
               <li>
                 <strong>Achievements:</strong><br>
-                Attained the 4th rank among 400+ students in the cohort.<br>
                 Cleared the AlmaBetter Comprehensive Assessment Test (AB-CAT) on My First Attempt, leading to the role of Subject Matter Expert for Doubt Resolution.
               </li>
             </ul>
 
           </div>
-          <div class="resume-item">
-            <h4>Data Analyst Intern</h4>
-            <h5>Dec 2023 - Mar 2024</h5>
-            <p><em>Internkaksha IT Solutions</em></p>
-        <ul>
-              <li>Leverage 𝗱𝗮𝘁𝗮 𝗮𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝘀𝗸𝗶𝗹𝗹𝘀 to support the Team at Internkaksha.</li>
-              <li>Utilize tools like 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜, 𝗦𝗤𝗟 𝗮𝗻𝗱 𝗣𝘆𝘁𝗵𝗼𝗻 for data cleaning, manipulation, and analysis.</li>
-              <li>Performed comprehensive SQL data extraction, transformation, and analysis, leading to a 𝟮𝟱% 𝗲𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁 𝗶𝗻 𝗱𝗲𝗰𝗶𝘀𝗶𝗼𝗻-𝗺𝗮𝗸𝗶𝗻𝗴 capabilities. </li>
-                <li>Pulled the data to build charts & dashboards that led to a 𝟭𝟱% 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗶𝗻 𝘀𝗮𝗹𝗲𝘀. </li>
-                  <li>𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗱 operational efficiency by optimizing 𝗦𝗤𝗟 𝗾𝘂𝗲𝗿𝗶𝗲𝘀, resulting in a 𝟯𝟬% 𝗿𝗲𝗱𝘂𝗰𝘁𝗶𝗼𝗻 in data 𝗿𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹 𝘁𝗶𝗺𝗲 and an overall 20% enhancement in effectiveness.</li>
-            </ul>
-          </div>
-          
-<!--           <div class="resume-item">
-            <h4>Subject Matter Expert - Intern</h4>
-            <h5>October 2022 - December 2022</h5>
-            <p><em>Digipplus</em></p>
-            <ul>
-              <li>Reviewed content for class 10 Mathematics.</li>
-              <li>Edited 100 solutions per day for class 6 to class 10 Mathematics as per the guidelines.</li>
-            </ul>
-          </div> -->
-          <div class="resume-item">
-            <h4>Real Estate Application Pune</h4>
-            <h5>Jan 2024 - May 2024</h5>
-            <p><em>Personal Project</em></p>
-            <ul>
-              <li>𝗦𝗰𝗿𝗮𝗽𝗽𝗲𝗱 𝗟𝗶𝘃𝗲 𝗱𝗮𝘁𝗮 𝗳𝗿𝗼𝗺 𝟵𝟵 𝗮𝗰𝗿𝗲𝘀 𝘄𝗲𝗯𝘀𝗶𝘁𝗲 and Created a Real Estate Application for pune city using Streamlit </li>
-              <li>Application has multiple features such as a live 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱, 𝗣𝗿𝗶𝗰𝗲 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺 with R2 Score of 94.57,
-                𝟯 𝗣𝗿𝗼𝗽𝗲𝗿𝘁𝘆 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗽𝗮𝗴𝗲 (maps and visualizations). </li>
-              <li>𝗗𝗲𝗽𝗹𝗼𝘆𝗲𝗱 this application on Streamlit.</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section><!-- End Resume Section -->
+         
+<!-- End Resume Section -->
 
   <!-- ======= Portfolio Section ======= -->
   <section id="portfolio" class="portfolio">
